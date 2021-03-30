@@ -1,9 +1,0 @@
-Width resolution:  1920px
-
-font style : Montserrat, Dodger, Roboto
-
-#Hex colors
-
-Dark-red: #FE0404	
-red: #DF2A28
-dark-gray:#222222
